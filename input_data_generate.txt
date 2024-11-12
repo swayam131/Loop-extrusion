@@ -1,0 +1,15 @@
+variable j equal 306
+variable i equal 308
+variable L equal 1000
+variable Left_anch equal 276
+variable Right_anch equal 325
+variable v equal 7343620
+variable l equal 6980738
+variable rand_0 equal 82172
+variable rand_1 equal 69986
+variable rand_2 equal 23318
+variable rand_3 equal 55828
+variable rand_4 equal 28731
+variable rand_5 equal 29240
+variable Radius equal 18
+
